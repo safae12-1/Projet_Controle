@@ -10,3 +10,5 @@ test(get(/{id})):
 
 test(get):afficher tous les employe:
 ![getall](https://github.com/safae12-1/Projet_Controle/assets/124156186/208e960b-eef2-46d5-926b-a5806d697018)
+voila la base de donné:
+![cb](https://github.com/safae12-1/Projet_Controle/assets/124156186/8ad850c3-d5e1-4379-a48b-fddf6513bdfe)
