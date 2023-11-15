@@ -20,8 +20,12 @@ voila la base de donné:
 -->gestion des services:
 -ajouter service:
 ![ajouser](https://github.com/safae12-1/Projet_Controle/assets/124156186/38ef7a43-52ed-45cb-a9e4-daa05feabf87)
+service a été bien ajouté:
+![serviceaj](https://github.com/safae12-1/Projet_Controle/assets/124156186/91c4f13e-b61e-47d0-b01f-a8e27f34b0a7)
 
--supprimer service:
--afficher service:
+-afficher un service:
+![affserv](https://github.com/safae12-1/Projet_Controle/assets/124156186/53e58f68-33be-4125-8ba3-6a10ea64787a)
+
 -afficher tous les service:
+![afftouss](https://github.com/safae12-1/Projet_Controle/assets/124156186/d85e3dc1-8868-4d62-bea7-6755061f0e88)
 
